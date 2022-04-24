@@ -1,4 +1,4 @@
-# Métodos Computacionales - 2021-1
+# Estadística y herramientas computacionales
 
 ### Entornos de programación académica en línea:
 * [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/asegura4488/Estadistica_Herramientas/main)
