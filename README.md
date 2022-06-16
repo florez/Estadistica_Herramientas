@@ -3,10 +3,6 @@
 ### Entornos de programación académica en línea:
 * [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/asegura4488/Estadistica_Herramientas/main)
 
-## Material del curso Métodos Computacionales de Uniandes
-
-> Nota: el material aquí publicado es basado del [proyecto académico de enseñanza de Física Computacional ![ComputoCienciasUniandes](imagenes/GitHub-Mark-32px.png)](http://computocienciasuniandes.github.io/) liderado por el Profesor Jaime Ernesto Forero
-
 **Universidad de los Andes | Vigilada Mineducación
 Reconocimiento como Universidad: Decreto 1297 del 30 de mayo de 1964.
 Reconocimiento personería jurídica: Resolución 28 del 23 de febrero de 1949 Minjusticia.**
